@@ -3,4 +3,6 @@ b = int(input("B: "))
 
 c = a + b
 
-print("Soma : {} ".format(c))
+print("Soma de A + B: {} ".format(c))
+
+
